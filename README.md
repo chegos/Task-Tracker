@@ -10,5 +10,3 @@ Projeto simples em Python para gerenciar tarefas via linha de comando.
 - delete
 - mark-done
 - mark-in-progress
-
-https://roadmap.sh/projects/task-tracker
